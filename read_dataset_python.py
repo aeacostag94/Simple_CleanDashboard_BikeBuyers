@@ -58,3 +58,5 @@ y_values = df_noD["Purchased Bike"]
 plt.bar(x_values, y_values)
 plt.show()
 plt.close('all')
+
+#Prueba de git 
